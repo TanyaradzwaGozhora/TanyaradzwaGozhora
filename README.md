@@ -1,7 +1,7 @@
 ### Heyy there person, I'm Tanya
 
 
-- 🔭 I’m currently working on school
+- 🔭 I’m currently working on timeseries analysis
 - 🌱 I’m currently learning git, albeit poorly 😂😂
 - 👯 I’m looking to collaborate on web and quantitative research projects
 - 🤔 I’m looking for help with git😂
