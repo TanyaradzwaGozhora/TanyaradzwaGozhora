@@ -8,5 +8,5 @@
 - 💬 Ask me about to-dolist apps 😂
 - 📫 How to reach me: linkedin (https://www.linkedin.com/in/tanyaradzwa-gozhora-8941b519a/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love tea, and as you can already tell laughing😂
+- ⚡ Fun fact: I love tea, and as you can probably tell laughing😂
 
