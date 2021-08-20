@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on sentiment analysis
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning React and Firebase
 - 👯 I’m looking to collaborate on web and ML projects
 - 🤔 I’m looking for help with timeseries analysis
 - 💬 Ask me about to-dolist apps :)
