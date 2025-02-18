@@ -1,7 +1,7 @@
 ### Heyy there person, I'm Tanya
 
 
-- 🔭 I’m currently working on sentiment analysis
+- 🔭 I’m currently working on LLM applications
 - 🌱 I’m currently learning React and Firebase
 - 👯 I’m looking to collaborate on web and ML projects
 - 🤔 I’m looking for help with timeseries analysis
